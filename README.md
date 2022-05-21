@@ -30,6 +30,10 @@ npm run deploy:local
 ```
 Contract is deployed by the first account created by Hardhat. Connect one of these accounts to your Metamask wallet to test it in front-end.
 
+Seed your contract with data locally for development
+```
+npm run seed
+```
 
 #### Deploy contract on testnets
 
